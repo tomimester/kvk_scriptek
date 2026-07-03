@@ -1,5 +1,5 @@
 ##########################
-### x parancs összesen -- ne gépelj el semmit!!
+### 10-20 parancs összesen -- ne gépelj el semmit!!
 ### TELJES MAGYARÁZAT ITT: https://mestertomi.hu/
 ##########################
 
