@@ -1,0 +1,69 @@
+Értékeld a leadet 0-100 pont között digitális marketing ügynökség szempontjából.
+
+Fontos cél: használd a teljes 0-100 skálát. Ne pontozz udvariasságból magasra. A 70+ pont már kifejezetten jó, értékesítési szempontból priorizálandó leadet jelent. A gyenge, homályos, kis büdzséjű vagy igénytelen megkeresések kerüljenek bátran 0-40 közé.
+
+Pontozási skála:
+
+* 0-20: nagyon gyenge lead. Nem látszik valós üzleti potenciál, nincs konkrét probléma, nagyon kicsi büdzsé vagy irreleváns / zavaros igény.
+* 21-40: gyenge lead. Van valamilyen érdeklődés, de homályos, alacsony értékű, kis büdzséjű, rosszul megfogalmazott vagy nem sürgős.
+* 41-60: közepes lead. Van releváns marketing igény, de hiányzik a sürgősség, a pénzügyi kapacitás, a konkrét üzleti cél vagy a következő lépés.
+* 61-75: jó lead. Konkrét probléma és üzleti cél látszik, van esély fizetőképes együttműködésre, de nem kiemelkedő.
+* 76-90: nagyon jó lead. Konkrét, sürgős, üzletileg értékes probléma, releváns szolgáltatásigény, jó pénzügyi kapacitás vagy megadott büdzsé.
+* 91-100: kiemelt lead. Nagy üzleti érték, sürgős probléma, erős fizetőképesség, világos döntési helyzet és konkrét következő lépés.
+
+Értékeld külön ezeket a dimenziókat:
+
+1. Probléma konkrétsága és üzleti fájdalom: 0-25 pont
+
+   * Magas pont, ha konkrét probléma van: romló ROAS, kevés lead, rossz konverzió, feed hiba, mérési probléma, kampányoptimalizálás.
+   * Alacsony pont, ha csak általános érdeklődés, social jelenlét, posztolgatás vagy „mibe kerülne” típusú kérdés van.
+
+2. Üzleti cél és várható érték: 0-20 pont
+
+   * Magas pont, ha több lead, több rendelés, jobb mérés, jobb konverzió vagy bevételkiesés kezelése a cél.
+   * Alacsony pont, ha nincs világos üzleti cél vagy csak „legyen valami online jelenlét”.
+
+3. Sürgősség és döntési helyzet: 0-15 pont
+
+   * Magas pont, ha sürgős, határidős, bevételkiesést okoz, nyitáshoz kötött, vagy konkrét kapcsolatfelvételt kér.
+   * Alacsony pont, ha csak tájékozódik vagy nincs időnyomás.
+
+4. Pénzügyi kapacitás: 0-20 pont
+
+   * Magas pont, ha erős árbevétel/profit vagy konkrét, érdemi hirdetési büdzsé látszik.
+   * Közepes pont, ha kisebb cég, de konkrét és üzletileg értelmes igény van.
+   * Alacsony pont, ha az árbevétel/profit hiányos, első éves, nagyon alacsony, vagy a büdzsé kifejezetten kicsi.
+
+5. Szolgáltatás-relevancia digitális marketing ügynökségnek: 0-10 pont
+
+   * Magas pont, ha Google Ads, Meta Ads, SEO, CRO, mérés, feed, kampánystruktúra, leadgenerálás vagy tartalommarketing a téma.
+   * Alacsony pont, ha főleg olcsó posztolást, alap social oldalt vagy nem stratégiai feladatot kér.
+
+6. Üzenet minősége és komolysága: 0-10 pont
+
+   * Magas pont, ha az üzenet érthető, konkrét, üzleties.
+   * Vonj le pontot rossz helyesírás, igénytelen megfogalmazás, zavaros kérés vagy komolytalan hangnem esetén.
+
+Kemény plafonok:
+
+* Ha nincs konkrét üzleti probléma, a pontszám maximum 45 lehet.
+* Ha csak általános érdeklődés vagy árkérdezés van konkrét cél nélkül, a pontszám maximum 40 lehet.
+* Ha a büdzsé nagyon alacsony és az igény is kis értékű, a pontszám maximum 35 lehet.
+* Ha az üzenet nagyon igénytelen, zavaros vagy nehezen érthető, a pontszám maximum 40 lehet akkor is, ha a szolgáltatás elvileg releváns.
+* Ha a pénzügyi adatok hiányosak vagy bizonytalanok, és az üzenet sem mutat erős üzleti potenciált, a pontszám maximum 45 lehet.
+* Ha nincs sürgősség, nincs konkrét következő lépés, és nincs erős pénzügyi jel, a pontszám maximum 55 lehet.
+* 75 pont fölé csak akkor menj, ha egyszerre van konkrét probléma, világos üzleti cél, fizetőképesség és releváns ügynökségi szolgáltatásigény.
+* 90 pont fölé csak kivételesen menj, ha a lead nagy értékű, sürgős, konkrét büdzsével vagy jelentős pénzügyi kapacitással rendelkezik, és azonnali üzleti probléma megoldását kéri.
+
+A cégnév anonimizált, abból ne következtess valódi cégméretre vagy minőségre.
+Ha az árbevétel vagy profit mező üres, „nem tudom” vagy „ez az első évem”, akkor az üzenet alapján ítéld meg az üzleti potenciált, de ne adj magas pontot pusztán feltételezésre.
+
+Lead adatok:
+
+* Iparág: {iparag}
+* Üzenet: {uzenet}
+* Tavalyi árbevétel: {arbevetel}
+* Tavalyi profit: {profit}
+
+Válaszolj csak így:
+PONTSZÁM: [0-100 közötti egész szám] | INDOKLÁS: [1-2 mondat, konkrétan említsd a fő felhajtó és lehúzó tényezőket]
