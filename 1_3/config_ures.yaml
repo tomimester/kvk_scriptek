@@ -1,0 +1,5 @@
+open_ai_api_key: "sajat_open_ai_api_kulcsod"
+telegram_bot_token: "sajat_telegram_bot_tokened"
+telegram_chat_id: "sajat_telegram_chat_id-d"
+typeform_api_key: "sajat_typeform_api_kulcsod"
+typeform_form_id: "sajat_typeform_form_id-d"
