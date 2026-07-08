@@ -13,6 +13,7 @@ git --version
 # SZERVER BEÁLLÍTÁSOK (egyszer kell megcsinálni)
 git config --global user.name "TE NEVED"
 git config --global user.email "te@emailcimed.com" #ha van github-od, akkor lehetőség szerint a github-os email címedet add meg
+git config --global init.defaultBranch main
 
 ### ELSŐ LÉPÉS
 # adott mappából git repot csinál (értsd: "elindítjuk" a git verziókövetést)
