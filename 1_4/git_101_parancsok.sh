@@ -39,3 +39,8 @@ git log --oneline
 git revert [állapotkód]
 
 #pl. git revert e4f5g6h
+
+### VESZÉLYZÓNA
+# TELJES GIT KÖVETÉS MEGSZÜNTETÉSE AZ ADOTT MAPPÁBAN
+# SZINTE SOHA SEM CSINÁLJUK!!!
+rm -rf .git
