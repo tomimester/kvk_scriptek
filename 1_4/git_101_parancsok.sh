@@ -36,9 +36,8 @@ git log --oneline
 #e4f5g6h add csv parser
 #9z8y7x6 initial commit
 
-# visszaállítás az adott állapotra:
+# visszaállítás az adott állapotkód ELŐTTI állapotra:
 git revert [állapotkód]
-
 #pl. git revert e4f5g6h
 
 ### VESZÉLYZÓNA
