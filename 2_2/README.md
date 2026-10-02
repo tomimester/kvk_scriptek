@@ -1,6 +1,6 @@
 # WordPress szerver beállítása
 
-Ha manuálisan telepítenéd a WordPress-et a szerveredre, kövesd ezt a tutorialt... Vagy add oda az AI-agentednek4
+Ha manuálisan telepítenéd a WordPress-et a szerveredre, kövesd ezt a tutorialt... Vagy add oda az AI-agentednek!
 (2026. októberi verzió: Ubuntu 26.04 LTS · Nginx · MySQL 8.4 · PHP 8.5 · Valkey · WordPress 7.1.)
 
 LINK: https://mestertomi.hu/vezerlopult/wp-setup-guide
