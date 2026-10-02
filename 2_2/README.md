@@ -3,7 +3,7 @@
 Ha manuálisan telepítenéd a WordPress-et a szerveredre, kövesd ezt a tutorialt... Vagy add oda az AI-agentednek4
 (2026. októberi verzió: Ubuntu 26.04 LTS · Nginx · MySQL 8.4 · PHP 8.5 · Valkey · WordPress 7.1.)
 
-LINK: https://tomimester.github.io/wordpress-server-setup/
+LINK: https://mestertomi.hu/vezerlopult/wp-setup-guide
 
 Az oldal tetején add meg:
 - a domainedet,
